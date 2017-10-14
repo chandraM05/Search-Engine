@@ -56,7 +56,7 @@ x)Query_processor.java : used for proceesing user quries to give the  desired do
 
 -> Tfidf is used to get the results .
 
-->Query time: <=0,2~0.7 msec per query Query can be single word (Sachin) or multi-word(Sachin Tendulkar India) or fielded query(t:sachin b:india), 
+->Query time: <=0,2~0.7 sec per query Query can be single word (Sachin) or multi-word(Sachin Tendulkar India) or fielded query(t:sachin b:india), 
 where t=title,b=body,c=category,e:external links,i:info-box
 
 ==============================================================
