@@ -28,17 +28,17 @@ ________________________________________________________________________________
 
 (iv) extract_info.java :Helps in parsing the content removing stop words stemming it using Stemmer.java and inserts into treemap .
 
-(iv) Stemmer.java stemm the word to its root form and return it to the calling function 
+(v) Stemmer.java stemm the word to its root form and return it to the calling function 
 
-(v) inverted_index.java writes o/p to the given comand line input file if file not exist it will create new file 
+(vi) inverted_index.java writes o/p to the given comand line input file if file not exist it will create new file 
 
-vi) kway_marge.java : This merges the complete index files created by writing the file
+vii) kway_marge.java : This merges the complete index files created by writing the file
 
-vii) merge_idtitle.java : This is main class to extract title corrsponding to the document id and save to file
+viii) merge_idtitle.java : This is main class to extract title corrsponding to the document id and save to file
 
-viii) Post_scan.java : To handle kwaymerge,query processing operations etc .
+ix) Post_scan.java : To handle kwaymerge,query processing operations etc .
 
-ix)Query_processor.java : used for proceesing user quries to give the  desired document 
+x)Query_processor.java : used for proceesing user quries to give the  desired document 
 
 
 ================================================================
